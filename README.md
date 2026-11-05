@@ -86,3 +86,9 @@
 </picture>
 
 ###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=true&fontSize=40&fontColor=FFFFFF&fontAlign=20&fontAlignY=70&stroke=-&animation=twinkling&descSize=20&descAlign=10&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
